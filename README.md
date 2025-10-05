@@ -9,8 +9,8 @@ React 기반 환경에서 **Context API, 상태 관리, 데이터 구조화** �
   <img src="https://readme-typing-svg.herokuapp.com?font=Pretendard&size=28&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;안녕하세요+:+)++방문해+주셔서+감사해요;I+love+building+useful+and+delightful+software." alt="typing"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#1F6FEB">NAME</span> ✨</h1>
-<p align="center">ROLE · 🇰🇷 Seoul · ✉️ EMAIL</p>
+<h1 align="center">Hi, I'm <span style="color:#1F6FEB">오유림</span> ✨</h1>
+<p align="center">FE · 🇰🇷  · ✉️ pushther2ce@gmail.com</p>
 
 <p align="center">
   <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
