@@ -1,33 +1,32 @@
-# 👋 안녕하세요, 프론트엔드 개발자 오유림입니다.
-
-React 기반 환경에서 **Context API, 상태 관리, 데이터 구조화** 등을 설계하고 구현할 수 있습니다.
-
----
-
+ <div class="header">
+   <div align= "center">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=Yulim's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Yulim's GitHub">
+    </div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+    <div align= "center"> <a href=https://ulim006.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ulim006.tistory.com"> </a>
+         <a href=ulim006@skuniv.ac.kr> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= ulim006@skuniv.ac.kr"> </a>
+         <a href=https://www.instagram.com/ulim_006> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ulim_006"> </a>
+         <a href=mailto:ulim006@skuniv.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ulim006@skuniv.ac.kr"> </a>
+          </div><br>
+    <div align= "center">  </div> 
+    <h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pretendard&size=28&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;안녕하세요+:+)++방문해+주셔서+감사해요" alt="typing"/>
-</p>
+  <Strong> ulim006@skuniv.ac.kr </Strong>
+</p><br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+  <div align=center>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </div><br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulim006&show_icons=true&theme=radical)    
 
-<h1 align="center">안녕하세요, 오유림입니다.</h1>
-<p align="center">FE · 🇰🇷  · ✉️ pushther2ce@gmail.com</p>
-
----
-
-## 🌟 About Me
-
-* 🎓 현재: 서경대학교 미래융합학부1
-* 🧰 주로 쓰는 것: React, TypeScript, Node, Python, SQL
-* 🧪 관심사: UI/UX, 데이터 시각화, 헬스케어 IT, 자동화/RPA
-* 💡 요즘 하는 일: 멋사, CS/알고리즘 복습, 블로깅
-* 🤝 함께하고 싶은 일: 오픈소스 기여, 해커톤, 스터디
-
----
-
-### 📬 Contact
-
-* Email: pushther2ce@gmail.com
-* Blog: 비공개
-* LinkedIn: [https://www.linkedin.com/feed/?trk=404_page](https://www.linkedin.com/feed/?trk=404_page)
-<p align="center">
-  <sub>오유림/Frontend Engineer</sub>
-</p>
+<br>
