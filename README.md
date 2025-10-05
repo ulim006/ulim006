@@ -5,7 +5,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> <a href=https://ulim006.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ulim006.tistory.com"> </a>
-         <a href=ulim006@skuniv.ac.kr> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= ulim006@skuniv.ac.kr"> </a>
          <a href=https://www.instagram.com/ulim_006> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ulim_006"> </a>
          <a href=mailto:ulim006@skuniv.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ulim006@skuniv.ac.kr"> </a>
           </div><br>
